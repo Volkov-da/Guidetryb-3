@@ -11,12 +11,13 @@ The course will be delivered in 6 sessions, each 1.5-2 hours. After the session,
 
 Course outline:
 
-1. Python basics. Libraries and modules essential for Data Science projects.
-2. Deep dive to exploratory data analysis and data visualization with Python.
-3. Accomplishing statistics experiments and A/B testing using Python.
-4. Advanced ML models. Data science projects structure.
-5. Basics of Neural Networks and Computer Vision models.
-6. CVs review and Interview preparation.
+1. Python basics. Libraries and modules essential for Data Science projects. [link](Practice_1/)
+2. Deep dive to exploratory data analysis and data visualization with Python. [link](Practice_2/)
+3. Basic statistics concepts with Python. [link](Practice_3/)
+4. Basic ML models. Linear regression. [link](Practice_4/) 
+5. Advanced ML models. Data science projects structure.
+6. Basics of Neural Networks and Computer Vision models.
+7. CVs review and Interview preparation.
 
 
 This version of course completely reworked, and we will have 90% of practical programming session.
