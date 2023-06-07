@@ -13,10 +13,10 @@ The course will be delivered in 6 sessions, each 1.5-2 hours. After the session,
 
 1. Python basics. Libraries and modules essential for Data Science projects. [ipynb](1_Python/)
 2. Exploratory data analysis (EDA) and data visualization with Python. [[ipynb]](2_EDA/) [[YouTube]](https://youtu.be/cy_h5mHFCnk) 
-3. Basic statistics concepts with Python. [[ipynb]](3_Statistics/)
+3. Basic statistics concepts with Python. [[ipynb]](3_Statistics/) [[YouTube]](https://youtu.be/vOXe-U65q-o)
 4. Linear regression. [[ipynb]](4_Linear_Regression/) [[YouTube]](https://youtu.be/BODxTUTPMQ0) 
-5. Regression problem ML projects structure. [[ipynb]](5_ML_project/)
-6. Classification problem ML projects structure.
+5. Regression problem ML projects structure. [[ipynb]](5_Regression/) [[YouTube]](https://youtu.be/65slktx5ypY)
+6. Classification problem ML projects structure. [[ipynb]](6_Classification/) [[YouTube]](https://youtu.be/4Z1LFNnH-zA)
 7. Basics of Neural Networks and Computer Vision models.
 8. CVs review and Interview preparation.
 
