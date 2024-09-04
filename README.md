@@ -11,7 +11,7 @@ The course will be delivered in 6 sessions, each 1.5-2 hours. After the session,
 
 ## Course outline: 
 
-1. Python basics. Libraries and modules essential for Data Science projects. [ipynb](1_Python/)
+1. Python basics. Libraries and modules essential for Data Science projects. [[ipynb]](1_Python/)
 2. Exploratory data analysis (EDA) and data visualization with Python. [[ipynb]](2_EDA/) [[YouTube]](https://youtu.be/cy_h5mHFCnk) 
 3. Basic statistics concepts with Python. [[ipynb]](3_Statistics/) [[YouTube]](https://youtu.be/vOXe-U65q-o)
 4. Linear regression. [[ipynb]](4_Linear_Regression/) [[YouTube]](https://youtu.be/BODxTUTPMQ0) 
